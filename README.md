@@ -3,14 +3,14 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/a1hub/readme/images/header.png" />
+<img src="https://raw.githubusercontent.com/A1Hub/A1hub/master/images/header_.png" />
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/a1hub/a1hub"/> 
+ <!-- <img src="https://badges.pufler.dev/visits/a1hub/a1hub"/>  -->
  <!-- <img src="https://badges.pufler.dev/years/a1hub"/> -->
- <img src="https://badges.pufler.dev/repos/a1hub"/>
- <img src="https://badges.pufler.dev/commits/monthly/a1hub" />
+ <!-- <img src="https://badges.pufler.dev/repos/a1hub"/> -->
+ <!-- <img src="https://badges.pufler.dev/commits/monthly/a1hub" /> -->
 
 </p>
 
@@ -18,7 +18,9 @@
   I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
 </p>   -->
 
-<h2 align="center">Technology Stack <img src="https://github.com/a1hub/a1hub/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack 
+<!-- <img src="https://github.com/a1hub/a1hub/blob/main/images/laptop.gif" width="50"> -->
+</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -41,14 +43,14 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+<a href="mailto: a1hvdy@gmail.com">
+ <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/a1hub/">
+ <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a1hub/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://twitter.com/a1hady">
+ <img src="https://img.shields.io/badge/-a1hady-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/a1hady"/>
 </a>
 </p>
 
