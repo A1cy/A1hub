@@ -19,7 +19,7 @@
 </p>   -->
 
 <h2 align="center">Technology Stack 
-<!-- <img src="https://github.com/a1hub/a1hub/blob/main/images/laptop.gif" width="50"> -->
+<img src="https://raw.githubusercontent.com/A1Hub/A1hub/master/images/laptop.gif" width="50"> 
 </h2>
 
 <p align="center">
@@ -44,10 +44,10 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: a1hvdy@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
+ <img src="https://img.shields.io/badge/-a1hub-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/a1hub/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a1hub/"/>
+ <img src="https://img.shields.io/badge/-a1hub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a1hub/"/>
 </a>
  <a href="https://twitter.com/a1hady">
  <img src="https://img.shields.io/badge/-a1hady-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/a1hady"/>
@@ -58,9 +58,9 @@
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/a1hub/a1hub/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
