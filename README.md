@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://www.sketch.com/blog/2022/02/03/github-actions-work-with-sketch-documents/" />
+<img src="https://sketch-cdn.imgix.net/assets/blog/using-github-actions-header@2x.png?ixlib=rb-4.0.1&fit=clip&dpr=1&w=1440&q=95&fm=jpg&s=18d08249e8e306014af9f302021ca044" />
 
 <p align="center">
  
