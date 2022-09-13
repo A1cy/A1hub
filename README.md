@@ -35,15 +35,15 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a1hvdi/"/> -->
+<img src="https://img.shields.io/badge/-A1-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a1hvdi/"/> -->
 <a href="mailto: a1hvdy@gmail.com">
- <img src="https://img.shields.io/badge/-A1cy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
+ <img src="https://img.shields.io/badge/-A1-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/a1hub/">
- <img src="https://img.shields.io/badge/-A1cy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/A1cy/"/>
+ <img src="https://img.shields.io/badge/-A1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/A1hub/"/>
 </a>
  <a href="https://twitter.com/a1hady">
- <img src="https://img.shields.io/badge/-a1hady-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/a1hady"/>
+ <img src="https://img.shields.io/badge/-A1-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/a1hady"/>
 </a>
 </p>
 
