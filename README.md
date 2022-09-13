@@ -1,16 +1,16 @@
 
-<!--  https://a1hub.github.io/portfolio/  -->
+<!--  https://A1cy.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
-<img src="https://raw.githubusercontent.com/A1Hub/A1hub/master/images/header_.png" />
+<img src="https://raw.githubusercontent.com/A1cy/A1cy/master/images/header_.png" />
 
 <p align="center">
  
- <!-- <img src="https://badges.pufler.dev/visits/a1hub/a1hub"/>  -->
- <!-- <img src="https://badges.pufler.dev/years/a1hub"/> -->
- <!-- <img src="https://badges.pufler.dev/repos/a1hub"/> -->
- <!-- <img src="https://badges.pufler.dev/commits/monthly/a1hub" /> -->
+ <!-- <img src="https://badges.pufler.dev/visits/A1cy/A1cy"/>  -->
+ <!-- <img src="https://badges.pufler.dev/years/A1cy"/> -->
+ <!-- <img src="https://badges.pufler.dev/repos/A1cy"/> -->
+ <!-- <img src="https://badges.pufler.dev/commits/monthly/A1cy" /> -->
 
 </p>
 
@@ -19,7 +19,7 @@
 </p>   -->
 
 <h2 align="center">Technology Stack 
-<img src="https://raw.githubusercontent.com/A1Hub/A1hub/master/images/laptop.gif" width="50"> 
+<img src="https://raw.githubusercontent.com/A1cy/A1cy/master/images/laptop.gif" width="50"> 
 </h2>
 
 <p align="center">
@@ -44,10 +44,10 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: a1hvdy@gmail.com">
- <img src="https://img.shields.io/badge/-a1hub-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
+ <img src="https://img.shields.io/badge/-A1cy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a1hvdy@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/a1hub/">
- <img src="https://img.shields.io/badge/-a1hub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/a1hub/"/>
+<a href="https://www.linkedin.com/in/A1cy/">
+ <img src="https://img.shields.io/badge/-A1cy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/A1cy/"/>
 </a>
  <a href="https://twitter.com/a1hady">
  <img src="https://img.shields.io/badge/-a1hady-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/a1hady"/>
@@ -59,7 +59,7 @@
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <!-- <p align="center">
-  <img src="https://github.com/a1hub/a1hub/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/A1cy/A1cy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
 
 <h2 align="center">
@@ -69,15 +69,15 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=a1hub&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=a1hub&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=A1cy&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=A1cy&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a1hub&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=A1cy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=a1hub&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=A1cy&theme=redical">
 </p> 
 <hr>
