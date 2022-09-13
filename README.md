@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://raw.githubusercontent.com/A1cy/A1cy/master/images/header_.png" />
+<img src="https://www.sketch.com/blog/2022/02/03/github-actions-work-with-sketch-documents/" />
 
 <p align="center">
  
