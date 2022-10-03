@@ -16,6 +16,8 @@
 </h2>
 
 <p align="center">
+
+<a href="https://app.daily.dev/a1cy"><img src="https://api.daily.dev/devcards/fd92dea392394781a4d0c3cdd8ed25da.png?r=wl2" width="400" alt="A1's Dev Card"/></a>
  
 <img src="https://img.shields.io/badge/-laravel-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-python-00599C?style=flat-square&logo=c"/>
