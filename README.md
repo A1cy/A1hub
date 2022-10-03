@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/A1cy/A1cy/master/images/laptop.gif" width="50"> 
 </h2>
 
-<a align="center" href="https://app.daily.dev/a1cy"><img align="center" src="https://api.daily.dev/devcards/fd92dea392394781a4d0c3cdd8ed25da.png?r=wl2" width="400" alt="A1's Dev Card"/></a>
+<a style="text-align:center;" align="center" href="https://app.daily.dev/a1cy"><img style="text-align:center;" align="center" src="https://api.daily.dev/devcards/fd92dea392394781a4d0c3cdd8ed25da.png?r=wl2" width="400" alt="A1's Dev Card"/></a>
 
 
 
